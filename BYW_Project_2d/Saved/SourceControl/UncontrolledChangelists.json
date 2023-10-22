@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/BYW_Project01/BYW_Project_2d/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/Hand_Test.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/Blueprints/BP_Hand.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_0.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_1.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_2.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_3.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_4.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_5.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_6.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_7.uasset"
+			]
+		}
+	]
+}
