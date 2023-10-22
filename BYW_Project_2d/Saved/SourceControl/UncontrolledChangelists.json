@@ -17,7 +17,17 @@
 				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_4.uasset",
 				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_5.uasset",
 				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_6.uasset",
-				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_7.uasset"
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas_Sprite_7.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/Blueprints/WBP_.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/Blueprints/WBP_CountdownBar.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/Blueprints/WBP_GameOver.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/2DSideScrollerBP/Maps/GameOverMap.umap",
+				"E:/BYW_Project01/BYW_Project_2d/Content/Blueprints/BP_PickupAvtor.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/Blueprints/BP_PickupActor.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/Blueprints/WBP_GameOver1.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/Blueprints/WBP_YouWin.uasset",
+				"E:/BYW_Project01/BYW_Project_2d/Content/MyContent/YouWin.umap",
+				"E:/BYW_Project01/BYW_Project_2d/Content/Blueprints/WBP_QTE.uasset"
 			]
 		}
 	]
